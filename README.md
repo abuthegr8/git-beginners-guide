@@ -9,7 +9,7 @@
 
 ### Operations in Git
 
-**Git** has a vast number of operations for version control wherein team memebers can update their projects and add or remove necessary elements. 
+**Git** has a vast number of operations for version control wherein team members can update their projects and add or remove necessary elements. 
 
 Some of these operations are:
 
